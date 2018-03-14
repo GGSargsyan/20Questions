@@ -1,0 +1,11 @@
+Game saved.
+Goodbye!
+a breadbox  no:(1)  yes:(2)
+1:   Do you eat it with eggs?  no:(3)  yes:(4)
+2:   Is it worth a lot of money?  no:(5)  yes:(6)
+3:   a mouse  no:(null)  yes:(null)
+4:   spam  no:(null)  yes:(null)
+5:   a bag of trash  no:(null)  yes:(null)
+6:   Does it know java?  no:(7)  yes:(8)
+7:   a house  no:(null)  yes:(null)
+8:   a computer scientist  no:(null)  yes:(null)
